@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.line {
+    height: auto;
+    outline: 0;
+    border: 0;
+}
+body,
+.line {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu Mono', monospace;
+    background-color: #000;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    color: #32cd32;
+    width: 100%;
+}

@@ -20,7 +20,7 @@
                 break;
                 case "url.bin":
                     if (pwd.toLowerCase() === "centipede")
-                        echo("https://drive.google.com/file/d/1-DlrAckYEyPSRNnji8vJV_ET-EZSk_wJ/view");
+                        echo("https://drive.google.com/file/d/1-sGpmO2A8YbyBZ0wRVAVmmRYjwlM7wUc/view");
                     else
                         echo("Incorrect password");
                 break;
